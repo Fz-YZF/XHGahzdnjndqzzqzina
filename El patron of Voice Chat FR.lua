@@ -1,5 +1,5 @@
 -- ON START
-game:GetService("StarterGui"):SetCore("SendNotification",{Title="El patron of Voice Chat FR",Text=";)", Duration=10})
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="El patron of Voice Chat FR",Text="By FZ.YZF ;)", Duration=10})
 
 -- LOCAL
 local BannieresValue = workspace.Parent:GetService("Players").LocalPlayer.PlayerGui.GameUI.OverHead.Bannieres.OverHeadBuy.Username
