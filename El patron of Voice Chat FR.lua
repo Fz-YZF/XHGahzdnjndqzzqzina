@@ -4,7 +4,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{Title="El patron of Vo
 -- LOCAL
 local BannieresValue = workspace.Parent:GetService("Players").LocalPlayer.PlayerGui.GameUI.OverHead.Bannieres.OverHeadBuy.Username
 local TitresValue = workspace.Parent:GetService("Players").LocalPlayer.PlayerGui.GameUI.OverHead.Titres.OverheadP.Choosed
-local MiniG_upvr = game:GetService("ReplicatedStorage"):WaitForChild("adminReplicated").MNG
+local MiniG_upvr = game:GetService("ReplicatedStorage"):WaitForChild("adminReplicated").MiniG
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fz-YZF/RBLX-UI-lib/refs/heads/main/Module.lua"))()
 
 -- MAIN
